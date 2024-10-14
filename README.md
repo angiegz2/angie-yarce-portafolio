@@ -74,5 +74,6 @@ Para clonar y ejecutar este proyecto localmente, sigue estos pasos:
     npm install
     npm run dev
 
-## Despliegue en Vercel
+## Despliegue realizado en Vercel
+
 - Enlace del despliegue en Vercel: []
