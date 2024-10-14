@@ -52,7 +52,7 @@ Un componente utilizado para mostrar la información adicional sobre mí. Incluy
 ### Enlace a redes sociales
 
 Se incluyen los logotipos de 4 redes sociales, los cuales llevan a mis redes personales, 
-para conocer un poco más acerca de mí.
+para conocer un poco más acerca de mí de forma personal.
 
 ## Tecnologías utilizadas
 
