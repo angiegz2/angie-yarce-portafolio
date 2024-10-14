@@ -39,7 +39,7 @@ Este componente muestra una lista de mis certificados de estudio. Cada item incl
 - **Lugar de estudio**: Nombre del lugar de realización del estudio.
 - **Descripción**: Breve resumen de lo que aprendí en el curso o carrera.
 - **Fecha de estudio**: Se incluyen las fechas en que realicé el curso.
-- **Certificado**: Titulo del certificado que obtuve.
+- **Certificado**: Titulo del certificado que obtuve al finalizar el estudio.
 
 ### Modal
 
