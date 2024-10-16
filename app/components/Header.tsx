@@ -30,7 +30,7 @@ const Header = () => {
         </div>
         <div className="flex justify-between">
           <span>Residencia:</span>
-          <span>Maceo, Antiqouia</span>
+          <span>Maceo, Antioquia</span>
         </div>
         <div className="flex justify-between">
           <span>Teléfono:</span>
