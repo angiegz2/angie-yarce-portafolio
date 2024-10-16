@@ -22,7 +22,7 @@ const Education = () => {
       role: "Estudiante",
       date: "Marzo de 2017",
       description:
-      "El servicio nacional de aprendizaje SENA hace constar que cursé y aprobaé la acción de formación: atención y servicio al cliente en la organización.",
+      "El servicio nacional de aprendizaje SENA hace constar que cursé y aprobé la acción de formación: atención y servicio al cliente en la organización.",
     },
     {
       institution: "Politécnico nacional",
@@ -38,7 +38,7 @@ const Education = () => {
       role: "Estudiante",
       date: "Enero 2006 - Noviembre 2017",
       description:
-      "Aqui inicie mis estudios de básicos. Hice primaria y secundariía. Obtuve mi certificado de 5to grado y finalmente me gradué como bachiller.",
+      "Aqui inicie mis estudios de básicos. Hice primaria y secundaria. Obtuve mi certificado de 5to grado y finalmente me gradué como bachiller.",
     },
   ];
 
