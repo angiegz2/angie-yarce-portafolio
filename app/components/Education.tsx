@@ -38,7 +38,7 @@ const Education = () => {
       role: "Estudiante",
       date: "Enero 2006 - Noviembre 2017",
       description:
-      "Aqui inicie mis estudios de básicos. Hice primaria y secundaria. Obtuve mi certificado de 5to grado y finalmente me gradué como bachiller.",
+      "Aqui inicie mis estudios de básicos. Hice primaria y secundaria. Obtuve mi certificado de 5º grado y finalmente me gradué como bachiller.",
     },
   ];
 
