@@ -68,7 +68,7 @@ const Portafolio = () => {
                 <>
                 <p className="text-gray-500 mt-2">
                   Este proyecto fue creado como el primer laboratorio
-                  de la materia de computación móvil. El entorno que se usó fue Android Studio
+                  de la materia de computación móvil. El entorno que se utilizó fue Android Studio
                   y se uso el lenguaje Kotlin. Es un proyecto 100% funcional.
                 </p>
                 <p className="text-gray-500 mt-2">
@@ -95,10 +95,10 @@ const Portafolio = () => {
               {showMore[2] && (
                 <>
                 <p className="text-gray-500 mt-2">
-                  Este fue el proyecto final, también para la materia de computación moóvil.
+                  Este fue un proyecto final, también para la materia de computación móvil.
                   Usamos el mismo lenguaje y entorno. El proyecto fue elegido por decisión propia y está relacionado
                   con un sistema responsivo a emergencias causadas por accidentes, en donde se le brinda
-                  apoyo y auxilios básicos a las personas mientras se llega al lugar indicado. El proyecto funciona en un 80%.
+                  apoyo y primeros auxilios a las personas accidentadas mientras se llega al lugar indicado. El proyecto funciona en un 80%.
                 </p>
                 <p className="text-gray-500 mt-2">
                   Enlace al proyecto: https://github.com/angiegz2/Life
@@ -153,7 +153,7 @@ const Portafolio = () => {
                   Proyecto final para la materia de proyecto integrador I.
                   Dicho proyecto se trata sobre un boot inteligente responsivo, el cual recomienda recetas, música y lecturas
                   según el estado de ánimo de las personas. El boot tiene la capacidad de reconocer emociones
-                  básicos e interactuar con el usuario. El proyecto todavía se está trabajando, ya que aún no
+                  básicas e interactuar con el usuario. El proyecto todavía se está trabajando, ya que aún no
                   es su fecha de entrega.
                 </p>
                 <p className="text-gray-500 mt-2">
