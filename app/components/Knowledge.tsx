@@ -6,8 +6,8 @@ const Knowledge = () => {
     <section className="mt-8">
       <h2 className="text-3xl font-bold text-center">Mis conocimientos</h2>
       <p className="text-center text-gray-600 mt-2">
-        Aqui encontraras un poco acerca de los conocimientos que he obtenido en 
-        lo que va a de mi carrera.
+        Aqui encontrarás un poco acerca de los conocimientos que he obtenido en 
+        lo que va de mi carrera.
       </p>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
         <div className="bg-white p-4 rounded-lg shadow-md text-center">
