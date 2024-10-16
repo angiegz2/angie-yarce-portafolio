@@ -46,13 +46,13 @@ const Profile = () => {
             <h2 className="text-2xl font-bold mb-4">Más sobre mí</h2>
             <p className="text-gray-700">
               Hola, soy Angie Paola Yarce Gómez. Nací en un pequeño pueblo llamado Maceo.<br /><br />
-              Soy estudiante de la Universidad de Antioquia desde 2018, actualmente hago mi 7.º semestre. 
-              Aunque mi carrera abarca muchas ramas, soy totalmente más fascinada por el diseño web, 
+              Soy estudiante de la Universidad de Antioquia desde 2018, actualmente hago mi 7º semestre. 
+              Aunque mi carrera abarca muchas ramas, estoy totalmente más fascinada por el diseño web, 
               me encanta diseñar prototipos para después llevarlos a codificar.<br /><br />
-              Tengo conocimientos en inglés básico, en dibujo, globofexia y diferentes manualidades.<br /><br />
+              Tengo conocimientos en inglés básico, en dibujo, globofexia y en diferentes manualidades.<br /><br />
               Entre mis hobbies preferidos están la lectura, la música, visualización de películas, 
               deportes, manualidades y la cocina.<br /><br />
-              Espero graduarme y ejercer mi carrera como profesional. Comprar mi propia casa e ir de viajes
+              Espero graduarme y ejercer mi carrera como profesional. Comprar mi propia casa e ir de viaje
               a través del mundo.
             </p>
             <button 
